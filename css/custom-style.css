@@ -1,0 +1,9 @@
+.bg-blue {
+  background-image: linear-gradient(0deg, #3f06f9 0%, #428bff 100%);
+}
+.bg-pink {
+  background-image: linear-gradient(0deg, #ff136f -0.01%, #ff589b 99.99%);
+}
+.bg-yellow {
+  background-image: linear-gradient(0deg, #ff9c35 -0.01%, #ffd019 99.99%);
+}
